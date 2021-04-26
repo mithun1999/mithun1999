@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mithun</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 😄 Pronouns: **He / His / Him**
+- 😄 Pronouns: **He / Him / His**
 
 - 🌱 I’m currently learning **D3.js**
 
