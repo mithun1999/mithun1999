@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **D3.js**
 
-- 📫 Email me at **mithun.dev51@gmail.com**
-
 - 📄 Know more about me at [mithunkumar.me](https://mithunkumar.me/)
+
+- 📫 Email me at **mithun.dev51@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
