@@ -7,7 +7,7 @@
 
 - 📄 Know more about me at [mithunkumar.me](https://mithunkumar.me/)
 
-- 📫 Email me at **mithun.dev51@gmail.com**
+- 📫 Email me at **hello@mithunkumar.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
