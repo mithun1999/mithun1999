@@ -3,8 +3,6 @@
 
 - 😄 Pronouns: **He / Him / His**
 
-- 🌱 I’m currently learning **D3.js & WebRTC**
-
 - 📄 Know more about me at [mithunkumar.me](https://mithunkumar.me/)
 
 - 📫 Email me at **hello@mithunkumar.me**
